@@ -157,6 +157,16 @@ var myCar = {
 
 //Code Here
 
+// function opjLooper(obj) {
+//   for (let key in obj){ //key can be renamed but usually called key, makes new item of items in object
+//     // console.log(obj[key]) //me[firstName] and me[age], me[state], obj[item], [] is not array in this one
+//     if (obj[key] === 'California'){
+//       // obj[key] = 'Utah'//changes to Utah
+//       delete obj[key] //deletes item in object with that key
+//     }
+//   }
+//   return obj
+// }
 
 
 ////////// PROBLEM 5 //////////
